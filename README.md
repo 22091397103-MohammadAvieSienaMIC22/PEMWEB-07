@@ -59,22 +59,36 @@ ketergantungan. Dengan tujuan ini, pembaca dokumen akan memahami produk yang aka
 8. </head>: Penutup tag kepala.
 
 9. <body>: Tag pembuka untuk isi utama dari halaman web.
-  
-10. <nav>: Tag pembuka untuk navigasi halaman.
-  
-11. di class="logo"><a href="index.ht index.html" class="page-scroll">TRIE MARE</a></LI>: Ada beberapa kesalahan di sini. Sepertinya seharusnya <li class="logo"> dengan tautan ke "index.html". Ini adalah item daftar yang berfungsi sebagai logo dan tautan ke halaman utama.
-  
-12. cl class-"menu">: Sepertinya seharusnya <ul class="menu">. Ini mengindikasikan awal dari daftar yang berfungsi sebagai menu navigasi.
-  
-13.Anda memiliki item daftar (<li>) yang berisi tautan atau input.
-  
-14. <11> dan </li>: Ada kesalahan sintaks dan tag yang tidak dikenali. Sepertinya ini seharusnya <li>.
-  
-15. <li><button class="buttoncart" onclick="window.location.href='cart.html"></li>: Item daftar yang berisi tombol untuk mengarahkan pengguna ke halaman "cart.html".
-  
-16. <li><button class="buttonlogin" onclick="window.location.href="login.html""></li>: Item daftar yang berisi tombol untuk mengarahkan pengguna ke halaman "login.html", tetapi ada kesalahan dalam atribut onclick.
-  
-17. </ul>: Penutup tag untuk daftar menu.
+  10. <nav>: Tag pembuka untuk navigasi halaman.
+  11. di class="logo"><a href="index.ht index.html" class="page-scroll">TRIE MARE</a></LI>: Ada beberapa kesalahan di sini. Sepertinya seharusnya <li class="logo"> dengan tautan ke "index.html". Ini adalah item daftar yang berfungsi sebagai logo dan tautan ke halaman utama.
+  12. cl class-"menu">: Sepertinya seharusnya <ul class="menu">. Ini mengindikasikan awal dari daftar yang berfungsi sebagai menu navigasi.
+  13.Anda memiliki item daftar (<li>) yang berisi tautan atau input.
+  14. <11> dan </li>: Ada kesalahan sintaks dan tag yang tidak dikenali. Sepertinya ini seharusnya <li>.
+  15. <li><button class="buttoncart" onclick="window.location.href='cart.html"></li>: Item daftar yang berisi tombol untuk mengarahkan pengguna ke halaman "cart.html".
+  16. <li><button class="buttonlogin" onclick="window.location.href="login.html""></li>: Item daftar yang berisi tombol untuk mengarahkan pengguna ke halaman "login.html", tetapi ada kesalahan dalam atribut onclick.
+  17. </ul>: Penutup tag untuk daftar menu.
+
+<img width="290" alt="image" src="https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/64554730-e026-4b1a-9542-5415f9d536f0">
+
+19. </nav>: Penutup dari elemen navigasi, mengindikasikan akhir dari bagian navigasi halaman.
+20. csection id="cart" class="yourcart">: Ini tampaknya kesalahan ketik. Seharusnya <section id="cart" class="yourcart">. Ini merupakan pembuka dari elemen section dengan ID "cart" dan class "yourcart".
+21. <h1>Your cart</h1>: Judul bagian yang menunjukkan bahwa bagian ini berkaitan dengan keranjang belanja pengguna.
+22. Setelahnya, ada beberapa <div> yang terstruktur dengan cara yang tidak benar dan beberapa kesalahan sintaks lainnya. Struktur dan tag <div> harus diperbaiki agar memiliki pembuka dan penutup yang sesuai.
+23. Di dalam <div class="frane_order">, Anda memiliki rincian pesanan seperti Subtotal, Diskon, Biaya Pengiriman, dan Total. Ada beberapa kesalahan ketik dalam elemen (misalnya, <h1>Discount:</h harusnya <h1>Discount:</h1>).
+23. Bagian input untuk kode promo (<input class="search promo" type="text" name "query" placeholder="Add promo code!">) memiliki kesalahan pada atribut name, seharusnya name="query".
+24. <button: href="#">Apply</button>: Kesalahan ketik yang jelas. Seharusnya <button href="#">Apply</button> atau hanya <button>Apply</button> jika tidak ada tautan yang perlu diterapkan pada tombol.
+25. Ada beberapa kesalahan dengan tag penutup </div>. Pastikan setiap pembuka <div> memiliki penutup yang sesuai.
+26. csection class="contact">: Kesalahan ketik, seharusnya <section class="contact">.
+27. Di dalam bagian "contact", ada formulir untuk mendaftar newsletter. Ada kesalahan dalam atribut <h1> (</N1>>
+    harusnya </h1>) dan beberapa tag lainnya.
+29. <footer> muncul dua kali, namun tidak ada konten di antaranya. Hanya satu elemen <footer> yang diperlukan.
+30. </body> dan </html>: Penutup dari seluruh halaman web.
+ 
+
+
+
+
+
 
 
           b.CSS
