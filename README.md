@@ -80,7 +80,48 @@ Laporan Tugas Pemrograman Web SRS
     harusnya </h1>) dan beberapa tag lainnya.
 29. <footer> muncul dua kali, namun tidak ada konten di antaranya. Hanya satu elemen <footer> yang diperlukan.
 30. </body> dan </html>: Penutup dari seluruh halaman web.
- 
+
+ ![image](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/864c36c3-e5cc-43b4-a3fa-08f81e4e45c6)
+
+ 31.	<section>: Ini memulai sebuah bagian baru di halaman. Di HTML5, <section> digunakan untuk mendefinisikan konten yang terkait dalam halaman.
+32.	<div class="framelogin">: Sebuah div dengan class "framelogin" yang kemungkinan digunakan untuk styling atau JavaScript.
+33.	<div class="textlogin">: div lain yang mungkin mendefinisikan area teks untuk login.
+34.	(nI>Login</h1>: Ini salah. Seharusnya <h1>Login</h1> yang merupakan header dengan teks "Login".
+35.	Kdivs crossorigin="anonymous"): Ini tidak masuk akal dalam konteks HTML dan sepertinya merupakan kesalahan ketik.
+36.	<form class="form_login">: Ini memulai form login, tempat pengguna akan memasukkan detailnya untuk login.
+37.	dIv cIass="Iabelemail dan sebagainya: Ini adalah kesalahan ketik dan seharusnya merupakan elemen <div> dengan class tertentu.
+38.	crossorigin="anonymous": Atribut ini biasanya digunakan dengan elemen <script> untuk mengontrol request lintas asal. Di sini, penggunaannya keliru.
+39.	name="password" Céauired n Laceho Ider=-basswort: Ini sepertinya merupakan kesalahan ketik dan mungkin seharusnya adalah atribut dari sebuah elemen input, seperti required dan placeholder.
+40.	s/i/a hrat- x (1 class= Tab Ta-google icon"></i></ay: Ini lagi-lagi tampaknya adalah kesalahan ketik.
+41.	</ul></div>: Penutup dari list yang sepertinya mengandung tautan ke media sosial. Namun, strukturnya keliru dan perlu diperbaiki.
+42.	</section>: Penutup dari elemen <section>.
+43.	</dius: Sepertinya kesalahan ketik dan mungkin seharusnya </div>.
+44.	<footer>: Ini memulai footer halaman, tempat Anda bisa menempatkan informasi hak cipta, tautan tambahan, dan lainnya.
+45.	<p>&copy; 2023 TRIEFWARE. All rights reserved.</p>: Paragraf yang mengandung informasi hak cipta untuk TRIEFWARE.
+46.	</footer>, </body>, dan </html>: Penutup dari elemen footer, body, dan html.
+
+![image](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/dd11716b-5f47-4f67-ae46-3b17f0efbf84)
+
+47.	 <div class="filter_Image">: Ini memulai div dengan class "filter_Image", yang kemungkinan besar digunakan untuk mengelompokkan beberapa elemen yang berkaitan dengan filter gambar.
+48.	ALY class="frame filter: Ini tampaknya kesalahan. Mungkin seharusnya dimulai dengan tag (misalnya <div>) dengan beberapa class yang ditentukan.
+49.	dag src="./ing/Filter.png" alt="Sep" height="3: Sepertinya ini adalah bagian dari elemen gambar (<img>), tetapi terpotong dan memiliki kesalahan ketik.
+50.	my class flexfilters1: Kesalahan lain. Ini mungkin harus menjadi tag pembuka dari suatu elemen (misalnya <div>) dengan class "flexfilters1".
+51.	<h1>al</: Ini tampaknya awal dari elemen header (<h1>) yang terpotong.
+52.	ing area"./img/pamahtiiter,.png" width="20px" height="20px" altants: Ini adalah upaya lain untuk menambahkan elemen gambar tetapi dengan banyak kesalahan ketik.
+53.	sty class flexfilters", mg src="./img/pantilter.png" width="200" height=, iv clasflextilters": Semua baris ini tampaknya bagian dari elemen yang terpotong dan memiliki kesalahan ketik.
+54.	"Flexfrancolor" dt class flexcolor2: Sepertinya ini adalah atribut dari elemen lain yang terputus.
+55.	Potongan kode dengan ting, sing, dan xing: Semua potongan ini tampaknya bagian dari elemen gambar yang terputus.
+56.	<div class="garisatas3"></div>: Ini div dengan class "garisatas3" mungkin digunakan untuk menambahkan garis atau pemisah.
+57.	raiv class="flexsize": Kesalahan ketik lain. Mungkin seharusnya <div class="flexsize">`.
+58.	Beberapa elemen dengan a class="buttons", <div class="buttons", dan lainnya: Potongan-potongan kode ini tampaknya bagian dari elemen-elemen yang digunakan untuk menampilkan tombol atau elemen interaktif lainnya, tetapi banyak dari mereka terputus atau memiliki kesalahan ketik.
+
+
+
+
+
+
+
+
 
 
 
