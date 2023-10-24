@@ -13,11 +13,7 @@
 
         1. Tujuan
         
- Tujuan identifikasi mengenai produk website Thrifting adalah untuk menjelaskan cakupan 
-dari produk yang dijelaskan dalam dokumen SRS, termasuk tujuan dari website, fungsi utama, karakteristik 
-pengguna, lingkungan operasional, kendala desain dan implementasi, dokumentasi pengguna, asumsi dan 
-ketergantungan. Dengan tujuan ini, pembaca dokumen akan memahami produk yang akan dikembangkan dan
- batasan serta kondisi yang harus dipertimbangkan dalam mengembangkan website tersebut.
+ Tujuan website Thrifting Sepatu adalah untuk menjelaskan cakupan dari produk yang dijelaskan dalam dokumen SRS, fungsi utama, karakteristik pengguna, lingkungan operasional, kendala desain dan implementasi, dokumentasi pengguna, asumsi dan ketergantungan. Dengan tujuan ini, pembaca dokumen akan memahami produk yang akan dikembangkan dan batasan serta kondisi yang harus dipertimbangkan dalam mengembangkan website tersebut.
 
         3. Lampiran
 
