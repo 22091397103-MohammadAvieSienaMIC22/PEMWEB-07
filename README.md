@@ -114,17 +114,29 @@ Laporan Tugas Pemrograman Web SRS
 56.	<div class="garisatas3"></div>: Ini div dengan class "garisatas3" mungkin digunakan untuk menambahkan garis atau pemisah.
 57.	raiv class="flexsize": Kesalahan ketik lain. Mungkin seharusnya <div class="flexsize">`.
 58.	Beberapa elemen dengan a class="buttons", <div class="buttons", dan lainnya: Potongan-potongan kode ini tampaknya bagian dari elemen-elemen yang digunakan untuk menampilkan tombol atau elemen interaktif lainnya, tetapi banyak dari mereka terputus atau memiliki kesalahan ketik.
+59.	x clms buttonsze, el class="button", dan sejenisnya: Ini adalah potongan-potongan kode yang tampaknya rusak dan tidak lengkap. Mereka sepertinya adalah bagian dari elemen <div>, tetapi penulisan dan strukturnya salah.
+60.	<button href="#">38-Large</button: Ini tampaknya sebuah tombol, tetapi tag <button> tidak menggunakan atribut href. Selain itu, tag penutupnya tidak lengkap.
+61.	<div class="box">: Ini adalah div dengan class "box" yang mungkin digunakan untuk mengelompokkan elemen-elemen tertentu.
+62.	<img src="./img/produk 1.1.png" alt="259px" height="27px" alt">: Ini adalah elemen gambar yang mengacu pada gambar "produk 1.1.png". Namun, ada beberapa masalah dengan elemen ini. Ada dua atribut alt dan salah satu dari mereka memiliki nilai "259px", yang seharusnya bukan nilai dari atribut alt.
+63.	hreffebok Emergen LITE Mens/p: Ini sepertinya merupakan kesalahan ketik. Mungkin maksudnya adalah tag paragraf dengan teks "Emergen LITE Mens".
+64.	cd class "box">: Kesalahan lain. Sepertinya seharusnya <div class="box">.
+65.	<ine tres-/tmp/produx 1.4.png" width 259px" height="27px" * Jordan 1 lavata </: Ini tampaknya adalah bagian dari elemen gambar yang rusak dan tidak lengkap
 
+![image](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/c765d171-44b3-4b44-9847-ceed7edd1534)
 
-
-
-
-
-
-
-
-
-
+66.	</nav>: Penutup dari elemen navigasi yang mengindikasikan akhir dari bagian navigasi halaman.
+67.	chouder id="home">: Kesalahan ketik. Ini sepertinya harus menjadi <header id="home">.
+68.	div class judul: Kesalahan lagi. Seharusnya <div class="judul">.
+69.	CHYTRE SERIES THAT <br> <MATCHES VISIE STYLE</</a>: Terdapat teks yang tampaknya harus diapit dengan tag (seperti <h1> atau <p>), dan tag penutup </a> yang tidak memiliki pasangan tag pembukanya.
+70.	<div class="buttonshopnow">: Pembukaan div dengan class "buttonshopnow", kemungkinan untuk menampung tombol atau elemen interaktif lainnya.
+71.	Elemen dengan hutan, king_oncu, prefike, dll.: Banyak dari elemen-elemen ini tampaknya kesalahan ketik untuk tag HTML yang sebenarnya, seperti <button>, <img src="...">, dan <a href="...">.
+72.	<div class="fitur">, <div class="kotak">: Elemen-elemen pembungkus dengan class yang berbeda, mungkin untuk pengelompokan konten.
+73.	Bagian dengan .png: Ini tampaknya adalah elemen gambar, tetapi banyak dari mereka yang memiliki kesalahan dalam atribut mereka.
+74.	<section class="contact">: Ini memulai sebuah bagian baru di halaman dengan class "contact".
+75.	<h1 class="contact text'>STAY UP TO DATE ABOUT OUR LATEST OFFERS</h1>: Ini adalah header yang memberitahu pengunjung untuk tetap up-to-date mengenai penawaran terbaru.
+76.	<div <input class="search_contact" type="text" naver"query" (Jacanalder-"Enter your mail Address">: Elemen input ini memiliki banyak kesalahan sintaks.
+77.	22 11 served.</p>: Ini tampaknya bagian dari teks hak cipta, tetapi terputus.
+78.	</body> </html>: Penutup dari seluruh halaman web.
 
 
 
