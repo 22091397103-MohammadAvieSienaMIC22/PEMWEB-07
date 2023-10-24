@@ -1,0 +1,434 @@
+/* Use reset to make all elements consistent */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a,
+abbr, acronym, address, big, cite, code, del,
+dfn, em, img, ins, kbd, q, s, samp, small,
+strike, strong, sub, sup, tt, var, b, u, i,
+center, dl, dt, dd, ol, ul, li, fieldset,
+form, label, legend, table, caption, tbody,
+tfoot, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption,
+footer, header, hgroup, menu, nav, output,
+ruby, section, summary, time, mark, audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption,
+figure, footer, header, hgroup,
+menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Additional resets to make elements render consistently in all browsers */
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+}
+
+button,
+input {
+  line-height: normal;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+
+/* NAVBAR */
+nav{
+	height: 85px;
+	display: flex;
+	padding: 40px 80px;
+	position: fixed;
+	background: white;
+	background-size: cover;
+	border-bottom: 2px solid;
+	top: -10px;
+	left: 0;
+	right: 0;
+	font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
+	z-index: 999;
+	transition: .3s;
+	
+}
+nav ul li {
+	display: inline-block;
+}
+ul.menu li{
+    margin-top: -10px;
+	margin-left: 25px;
+	font-size: 20px; 
+}
+nav ul li a{
+	text-decoration: none;
+	color: black;
+	transition: .2s;
+}
+.logo a{
+	font-size: 40px;
+	line-height: 20px;
+}
+nav a:hover{
+	color: #454D7A;
+}
+.logo{	
+	margin-top: 0px;
+	margin-right: 80px;
+}
+.search_input{
+  margin-left: 0px;
+  margin-right: 0px;
+  border-radius: 15px;
+  width: 550px;
+  padding: 0px 20px;
+  height: 30px;
+  background-color: transparent;
+  transition: transform 250ms ease-in-out;
+  font-size: 14px;
+  line-height: 18px;
+  color: #575756;
+  background-color: transparent;
+  background-image: url(./img/kacapembesar.png);
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-position: 97% center;
+  border-radius: 50px;
+  border: 1px solid #575756;
+  transition: all 250ms ease-in-out;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+}
+.search_input input{
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+.buttoncart {
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: url(./img/cart.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    display: flex;
+    align-items: center;
+    transition: 0.4s;
+	cursor: pointer;
+}
+.buttonlogin {
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: url(./img/login.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    display: flex;
+    align-items: center;
+    transition: 0.4s;
+	cursor: pointer;
+}
+
+/*Section Shop*/
+.shop_atas h1{
+	font-size: 40px;
+	font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
+	font-weight: 700;
+	text-align: left;
+	margin-top: 100px;
+    margin-left: 85px;
+}
+
+.filter_image {
+	display: flex;
+	margin-top: 25px;
+	
+}
+
+/* Section Filter */
+.frame_filter{
+    margin-top: 0px;
+	margin-left: 85px;
+	margin-right: 100px;
+	width: 295px;
+	height: 900px;
+	border-radius: 20px;
+	border: 1px solid gray;
+}
+.flexfilters{
+	display: flex;
+
+}
+.frame_filter h1{
+	font-family: Abhaya Libre;
+	margin-top: 20px;
+	font-size: 20px;
+	font-style: normal;
+	margin-left: 20px;
+	font-weight: 700;
+	line-height: normal;
+	color: #000000;
+	margin-right: 50px;
+}
+.frame_filter img{
+	margin-top: 20px;
+	margin-left: 120px;
+}
+.garisatas1 {
+	background-color: grey;
+	color: grey;
+	height: 1px;
+	margin: 25px 20px;
+}
+.flexfilters1 {
+	display: flex;
+	margin-top: 0px;
+}
+.flexfilters2 {
+	display: flex;
+}
+.flexfilters2 img {
+	margin-left: 120px;
+}
+.flexfilters3 {
+	display: flex;
+}
+.flexfilters3 img {
+	margin-left: 130px;
+}
+.garisatas2 {
+	background-color: grey;
+	color: grey;
+	height: 1px;
+	margin: 25px 20px;
+}
+.flexcolor1 {
+	display: flex;
+}
+.flexframecolor{
+	text-decoration: none;
+	margin-left: 20px;
+}
+.flexcolor2 {
+	display: flex;
+}
+.flexcolor2 img{
+	margin-left: 0px;
+	margin-right: 20px; 
+}
+.flexcolor3 {
+	display: flex;
+}
+.flexcolor3 img{
+	margin-left: 0px;
+	margin-right: 20px;
+}
+.garisatas3 {
+	background-color: grey;
+	color: grey;
+	height: 1px;
+	margin: 25px 20px;
+}
+.flexsize1{
+	display: flex;
+}
+.flexsize1 img{
+	margin-left: 140px;
+}
+.flexframesize {
+	text-decoration: none;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.buttonsize button{
+	font-size: 15px;
+	border-radius: 20px;
+	width: 96px;
+	height: 37px;
+	color: grey;
+	background-color: #F0F0F0;
+	font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
+	cursor: pointer;
+	transition: .2s;
+	font-weight: lighter;
+}
+.buttonsize button:hover{
+	background-color: black;
+}
+.flexsize2 {
+	margin-top: 0px;
+	display: flex;
+}
+.flexsize3 {
+	margin-top: 10px;
+	display: flex;
+}
+.flexsize4 {
+	margin-top: 10px;
+	display: flex;
+}
+.flexsize5 {
+	margin-top: 10px;
+	display: flex;
+}
+.flexsize6 {
+	margin-top: 10px;
+}
+.garisatas4 {
+	background-color: grey;
+	color: grey;
+	height: 1px;
+	margin: 25px 20px;
+}
+.buttonfilterapply{
+	margin-left: 20px;
+}
+.buttonfilterapply button{
+	font-size: 15px;
+	border-radius: 20px;
+	width: 247px;
+	height: 48px;
+	color: white;
+	background-color: black;
+	font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
+	cursor: pointer;
+	transition: .2s;
+	font-weight: lighter;
+}
+.buttonfilterapply button:hover{
+	background-color: grey;
+}
+
+/*Section Produk*/
+.produk_produk{
+	display: flex;
+}
+.produk1{
+    text-decoration: none;
+	padding-right: 40px;
+}
+.produk2{
+	text-decoration: none;
+	padding-right: 30px;
+}
+.produk3{
+	text-decoration: none;
+}
+.box{
+	padding-bottom: 100px;
+}
+.box img{
+    border-radius: 10px;
+    background: #AFB0AD;
+	border-color: #B3A492;
+    border-style: solid;
+	margin-bottom: 10px;
+}
+.box p{
+    text-decoration: none;
+    color:black;
+	margin-top: 15px;
+	font-weight: 700;
+	font-size: 21px;
+	font-family: "Abhaya Libre-Bold", Helvetica;
+	text-align: left;
+}
+
+
+/*section contact*/
+.contact{
+	display: flex;
+    margin-top: 60px;
+	width: 1245px;
+	margin-left: 130px;
+	height: 168px;
+	background-color: #000000;
+	border-radius: 20px;
+	
+}
+.contact_text{
+	font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
+	font-weight: 700;
+	color: #ffffff;
+	justify-content: space-evenly;
+	width: 665px;
+	height: 70px;
+	font-size: 40px;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+.search_contact{
+	margin-top: 40px;
+	margin-left: 200px;
+	width: 300px;
+	padding: 0px 20px;
+	height: 40px;
+	border-radius: 25px;
+	position: absolute;
+	background-color: white;
+	transition: transform 250ms ease-in-out;
+	font-size: 14px;
+	line-height: 18px;
+	color: #575756;
+	background-image: url(./img/Mail.png);
+	background-repeat: no-repeat;
+	background-size: 18px 18px;
+	background-position: 95% center;
+	border: 1px solid #575756;
+	transition: all 250ms ease-in-out;
+	backface-visibility: hidden;
+	transform-style: preserve-3d;
+}
+.button_contact button{
+	margin-top: 85px;
+	margin-left: 203px;
+	border: 2px solid;
+	position: absolute;
+	width: 300px;
+	height: 40px;
+	border-radius: 25px;
+	border-color: black;
+	background: white;
+	color: black;
+	font-size: 15px;
+	cursor: pointer;
+	font-weight: lighter;
+	transition: .2s;
+}
+.button_contact button:hover{
+	background-color: red;
+}
+
+/* Style footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  margin-top: 50px;
+  padding: 10px 0;
+}
