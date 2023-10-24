@@ -1,4 +1,4 @@
-     Laporan Tugas Pemrograman Web SRS 
+Laporan Tugas Pemrograman Web SRS 
 
              Disusun oleh:
 
@@ -13,7 +13,11 @@
 
         1. Tujuan
         
- Tujuan website Thrifting Sepatu adalah untuk menjelaskan cakupan dari produk yang dijelaskan dalam dokumen SRS, fungsi utama, karakteristik pengguna, lingkungan operasional, kendala desain dan implementasi, dokumentasi pengguna, asumsi dan ketergantungan. Dengan tujuan ini, pembaca dokumen akan memahami produk yang akan dikembangkan dan batasan serta kondisi yang harus dipertimbangkan dalam mengembangkan website tersebut.
+ Tujuan identifikasi mengenai produk website Thrifting adalah untuk menjelaskan cakupan 
+dari produk yang dijelaskan dalam dokumen SRS, termasuk tujuan dari website, fungsi utama, karakteristik 
+pengguna, lingkungan operasional, kendala desain dan implementasi, dokumentasi pengguna, asumsi dan 
+ketergantungan. Dengan tujuan ini, pembaca dokumen akan memahami produk yang akan dikembangkan dan
+ batasan serta kondisi yang harus dipertimbangkan dalam mengembangkan website tersebut.
 
         3. Lampiran
 
@@ -26,6 +30,7 @@
            b.UseCase 
 
 <img width="296" alt="image" src="https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-7/assets/144098631/ce2b5675-a9fc-42db-b70f-d4ae7aece3f7">
+
 
        4. Penjelasan Code
 
