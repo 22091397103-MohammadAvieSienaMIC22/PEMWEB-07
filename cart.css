@@ -1,0 +1,400 @@
+/* Use reset to make all elements consistent */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a,
+abbr, acronym, address, big, cite, code, del,
+dfn, em, img, ins, kbd, q, s, samp, small,
+strike, strong, sub, sup, tt, var, b, u, i,
+center, dl, dt, dd, ol, ul, li, fieldset,
+form, label, legend, table, caption, tbody,
+tfoot, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption,
+footer, header, hgroup, menu, nav, output,
+ruby, section, summary, time, mark, audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption,
+figure, footer, header, hgroup,
+menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Additional resets to make elements render consistently in all browsers */
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+}
+
+button,
+input {
+  line-height: normal;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+
+/* NAVBAR */
+nav{
+	height: 85px;
+	display: flex;
+	padding: 40px 80px;
+	position: fixed;
+	background: white;
+	background-size: cover;
+	border-bottom: 2px solid;
+	top: -10px;
+	left: 0;
+	right: 0;
+	font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
+	z-index: 999;
+	transition: .3s;
+	
+}
+nav ul li {
+	display: inline-block;
+}
+ul.menu li{
+    margin-top: -10px;
+	margin-left: 25px;
+	font-size: 20px; 
+}
+nav ul li a{
+	text-decoration: none;
+	color: black;
+	transition: .2s;
+}
+.logo a{
+	font-size: 40px;
+	line-height: 20px;
+}
+nav a:hover{
+	color: #454D7A;
+}
+.logo{	
+	margin-top: 0px;
+	margin-right: 80px;
+}
+.search_input{
+  margin-left: 0px;
+  margin-right: 0px;
+  border-radius: 15px;
+  width: 550px;
+  padding: 0px 20px;
+  height: 30px;
+  background-color: transparent;
+  transition: transform 250ms ease-in-out;
+  font-size: 14px;
+  line-height: 18px;
+  color: #575756;
+  background-color: transparent;
+  background-image: url(./img/kacapembesar.png);
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-position: 97% center;
+  border-radius: 50px;
+  border: 1px solid #575756;
+  transition: all 250ms ease-in-out;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+}
+.search_input input{
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+.buttoncart {
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: url(./img/cart.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    display: flex;
+    align-items: center;
+    transition: 0.4s;
+	cursor: pointer;
+}
+.buttonlogin {
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: url(./img/login.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    display: flex;
+    align-items: center;
+    transition: 0.4s;
+	cursor: pointer;
+}
+
+/* Section yourcart */
+.yourcart {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.yourcart h1{
+    margin-top: 100px;
+    margin-left: 85px;
+    margin-bottom: 25px;
+    top: 0;
+    left: 0;
+    font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.cart_samping{
+    display: flex;
+    margin-right: 85px;
+    text-decoration: none;
+}
+.frame_cart{
+    flex-direction: column;
+    margin-top: 0px;
+	margin-left: 85px;
+	color: gray;
+	width: 715px;
+	height: 508px;
+	border-radius: 20px;
+	border: 1px solid;
+}
+.frame_cart h1{
+	font-family: Abhaya Libre;
+	margin-top: 215px;
+    margin-left: 10px;
+    text-align: center;
+	font-size: 70px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+/* Order */
+.frame_order{
+	color: gray;
+	width: 505px;
+    margin-left: 80px;
+	height: 458px;
+    padding: 10px 10px;
+	border-radius: 20px;
+	border: 1px solid;
+}
+.frame_order h1{
+	font-family: Abhaya Libre;
+    font-size: 24px;
+    margin-top: 20px;
+	font-style: normal;
+    text-align: left;
+    margin-left: 10px;
+	font-weight: 700;
+	line-height: normal;
+}
+.frame_order h2{
+	font-family: Abhaya Libre;
+    font-size: 24px;
+    margin-top: 20px;
+	font-style: normal;
+    text-align: left;
+    margin-left: 10px;
+	font-weight: 700;
+	line-height: normal;
+}
+.frame_order h3{
+	font-family: Abhaya Libre;
+    font-size: 24px;
+    margin-top: 20px;
+	font-style: normal;
+    text-align: left;
+    margin-left: 10px;
+	font-weight: 700;
+	line-height: normal;
+}
+.frame_order h4{
+	font-family: Abhaya Libre;
+    font-size: 24px;
+    margin-top: 20px;
+	font-style: normal;
+    text-align: left;
+    margin-left: 10px;
+	font-weight: 700;
+	line-height: normal;
+}
+.frame_order h5{
+	font-family: Abhaya Libre;
+    font-size: 24px;
+    margin-top: 60px;
+	font-style: normal;
+    text-align: left;
+    margin-left: 10px;
+	font-weight: 700;
+	line-height: normal;
+}
+.inputbutton{
+    display: flex;
+    text-decoration: none;
+}
+.search_promo{
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 15px;
+    width: 320px;
+    padding: 0px 20px;
+    height: 45px;
+    background-color: transparent;
+    transition: transform 250ms ease-in-out;
+    font-size: 14px;
+    line-height: 18px;
+    color: #575756;
+    background-color: transparent;
+    background-image: url(./img/promo.png);
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+    background-position: 97% center;
+    border-radius: 50px;
+    border: 1px solid #575756;
+    transition: all 250ms ease-in-out;
+    backface-visibility: hidden;
+    transform-style: preserve-3d;
+}
+.search_input input{
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+.button_apply button{
+	margin-top: 20px;
+    margin-left: 10px;
+	border: 2px solid;
+	border-color: black;
+	width: 120px;
+	height: 45px;
+	background: black;
+	color: white;
+	font-size: 15px;
+	border-radius: 20px;
+	cursor: pointer;
+	font-weight: lighter;
+	transition: .2s;
+}
+.button_apply button:hover{
+	background-color: gray;
+}
+.button_checkout button{
+    margin-top: 20px;
+    margin-left: 10px;
+	border: 2px solid;
+	border-color: black;
+	width: 457px;
+	height: 45px;
+    background: black;
+	color: white;
+	font-size: 15px;
+	border-radius: 20px;
+	cursor: pointer;
+	font-weight: lighter;
+	transition: .2s;
+}
+.button_checkout button:hover{
+	background-color: gray;
+}
+
+/*section contact*/
+.contact{
+	display: flex;
+    margin-top: 60px;
+	width: 1245px;
+	margin-left: 130px;
+	height: 168px;
+	background-color: #000000;
+	border-radius: 20px;
+	
+}
+.contact_text{
+	font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
+	font-weight: 700;
+	color: #ffffff;
+	justify-content: space-evenly;
+	width: 665px;
+	height: 70px;
+	font-size: 40px;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+.search_contact{
+	margin-top: 40px;
+	margin-left: 200px;
+	width: 300px;
+	padding: 0px 20px;
+	height: 40px;
+	border-radius: 25px;
+	position: absolute;
+	background-color: white;
+	transition: transform 250ms ease-in-out;
+	font-size: 14px;
+	line-height: 18px;
+	color: #575756;
+	background-image: url(./img/Mail.png);
+	background-repeat: no-repeat;
+	background-size: 18px 18px;
+	background-position: 95% center;
+	border: 1px solid #575756;
+	transition: all 250ms ease-in-out;
+	backface-visibility: hidden;
+	transform-style: preserve-3d;
+}
+.button_contact button{
+	margin-top: 85px;
+	margin-left: 203px;
+	border: 2px solid;
+	position: absolute;
+	width: 300px;
+	height: 40px;
+	border-radius: 25px;
+	border-color: black;
+	background: white;
+	color: black;
+	font-size: 15px;
+	cursor: pointer;
+	font-weight: lighter;
+	transition: .2s;
+}
+.button_contact button:hover{
+	background-color: red;
+}
+
+/* Style footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  margin-top: 50px;
+  padding: 10px 0;
+}
