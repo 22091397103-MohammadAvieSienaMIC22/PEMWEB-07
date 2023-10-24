@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRIEFWARE</title>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="cart.css" />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li class="logo"><a href="index.html" class="page-scroll">TRIEFWARE</a></li>
+      </ul>
+      <ul class="menu">
+        <li><a class="page-scroll" href="shop.html">Shop</a></li>
+        <li><a class="page-scroll" href="index.html#newarrivals">New Arrivals</a></li>
+        <li><a class="page-scroll" href="index.html#brands">Brands</a></li>
+        <li><input class="search_input" type="text" name="query" placeholder="Search for products..."></li>
+		<li><button class="buttoncart" onclick="window.location.href='cart.html'"></li>
+		<li><button class="buttonlogin" onclick="window.location.href='login.html'"></li>
+      </ul>
+    </nav>
+    <section id="cart" class="yourcart">
+        <h1>Your cart</h1>
+        <div class="cart_samping">
+            <div class="frame_cart">
+                <div>
+                    <h1>ORDER NOW</h1>
+                </div>
+            </div>
+            <div class="frame_order">
+                <div>
+                    <h1>Order Summary:</h1>
+                    <h2>Subtotal:</h2>
+                    <h3>Discount:</h3>
+                    <h4>Delivery Fee:</h4>
+                    <h5>Total:</h5>
+                </div>
+                <div class="inputbutton">
+                    <div>
+                        <input class="search_promo" type="text" name="query" placeholder="Add promo code">
+                    </div>
+                    <div>
+                        <div class="button_apply">
+                            <button href="#">Apply</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="button_checkout">
+                    <button href="#">Go to Checkout</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="contact">
+		<div>
+			<h1 class="contact_text">STAY UP TO DATE ABOUT OUR LATEST OFFERS</h1>
+		</div>
+		<div>
+			<input class="search_contact" type="text" name="query" placeholder="Enter your email Address">
+		</div>
+		<div class="button_contact">
+			<button href="#">Subcribe to Newsletter</button>
+		</div>
+	</section>
+    <footer>
+        <p>&copy; 2023 TRIEFWARE. All rights reserved.</p>
+    </footer>
+</body>
+</html>
