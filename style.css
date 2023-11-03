@@ -451,6 +451,71 @@ header {
 	background-color: red;
 }
 
+/*garis section bawah*/
+.garis-footer {
+	background-color: grey;
+	color: grey;
+	height: 1px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+/* footer Section */
+.footer .footer-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    gap: 3.2rem;
+    margin-top: 40px;
+    margin-bottom: 20px;
+	margin-left: 50px;
+}
+#contact a{
+    text-decoration: none;
+}
+#follow{
+    margin-left: 30px;
+}
+.lower{
+    text-transform: lowercase;
+}
+.footer .footer-container .box h3{
+    padding: .5rem 0;
+    font-size: 2rem;
+    color: #192a56;
+}
+.footer .footer-container .box a{
+    display: block;
+    padding: .5rem 0;
+    font-size: 16px;
+    color: #666;
+}
+.footer .footer-container .box a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+/* SOCIAL MEDIA */
+.social-media{
+    display: flext;
+    text-align: center;
+    margin-left: 100px;
+    float: right;
+}
+.social-media h3{
+    font-size: 2rem;
+    color: #192a56;
+}
+.social-media img{
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 2px;
+}
+.social-media img:hover{
+    border: solid 2px #0D1282;
+    border-radius: 50%;
+    color: #0D1282;
+}
+
 /* Style footer */
 footer {
   background-color: #333;
