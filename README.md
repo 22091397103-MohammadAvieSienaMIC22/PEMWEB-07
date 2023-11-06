@@ -11,7 +11,8 @@ Laporan Tugas Pemrograman Web SRS
                          2023
 
 BAB 1 PENDAHULUAN 
-        1.1 Tujuan
+
+	 1.1 Tujuan
         
   Dokumen ini bertujuan menjelaskan bagaimana perancangan sebuah web site yg berfokus pada penjualan sepatu thrifting / sepatu bekas impor original dan tentunya berkualitas. Web site ini akan menampilkan laman home, shop, dan cara pesan. Dokumen ini akan menjadi panduan bagi tim pengembangan dalam merancang dan mengimplementasikan situs web.
 
@@ -31,10 +32,10 @@ https://www.thrifted.com/?gclid=CjwKCAjw1t2pBhAFEiwA_-A-NMe6X-VGarXz-CDqmQa55pGf
 
 BAB 2 DESKRIPSI KESELURUHAN
 
-        2.1 Deskripsi Produk
+	2.1 Deskripsi Produk
 Website Triefware adalah sebuah platform yang dirancang untuk pembelian sepatu thrifting, website ini menyediakan berbagai macam pilihan sepatu branded serta berbagai macam merek, ukuran dan pilihan harga yang sangat bervariatif. Website ini juga menyediakan berbagai macan model sepatu seperti sepatu formal, sneakers, sport dll dengan berbagai macam model mengikuti perkembangan jaman style dan fashion sekarang.
 
-	2.1 Penggolongan Karakterik Pengguna
+	2.2 Penggolongan Karakterik Pengguna
 Dalam pengembangan platform website " Triefware " berbagai kategori pengguna telah diidentifikasi, masing-masing dengan tugas, hak akses ke Web Site, dan kemampuan yang  harus dimiliki. Berikut adalah penjelasan lebih rinci tentang karakteristik pengguna:
 
 Tabel 1 Karakteristik Pengguna
@@ -72,6 +73,17 @@ Batasan Desain dan Implementasi merujuk pada keterbatasan atau kendala yang perl
         ●Implementasi: Pilihan teknologi, struktur basis data, dan arsitektur backend harus mendukung pertumbuhan pengguna dan data.
 
 Dengan memahami batasan Desain dan Implementasi ini, tim pengembangan dapat memastikan bahwa website thrifting tidak hanya fungsional dan memenuhi kebutuhan pengguna tetapi juga dapat diadaptasi dan ditingkatkan di masa mendatang.
+
+3.	Kebutuhan Antarmuka Eksternal
+3.1	 User Interfaces
+Ruang lingkup Website "Thrifting" meliputi bagian-bagian yang terdapat dalam Website "Thrifting" yang telah dibuat. Berikut deskripsi singkat mengenai ruang lingkup Website Pribadi ini:
+
+ 
+![image](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/db020aaa-9a85-4362-8c2c-dd205ef7c972)
+![image](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/012cbd75-7468-4091-b7dd-88cd1e699186)
+![image](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/51455e96-a355-4b49-8b80-af02f7b80ef8)
+
+
 
 
 
