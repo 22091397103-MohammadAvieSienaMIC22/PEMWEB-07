@@ -119,6 +119,12 @@ Ruang lingkup Website "Thrifting" meliputi bagian-bagian yang terdapat dalam Web
 ![Screenshot 2023-11-06 175632](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/df74ac60-2530-4b7f-bd67-6de4b14b788b)
 ![Screenshot 2023-11-06 175649](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/159fd269-5da1-4d0b-befc-1733029e9b91)
 
+	3.1.2 Baguan SHOP
+
+![Screenshot 2023-11-06 175453](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/b5eed4e6-8308-4756-8361-03f788b0ca25)
+![Screenshot 2023-11-06 175836](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/3ec364ac-5ca8-4730-be3e-c3eb0c9073a9)
+![Screenshot 2023-11-06 175854](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/048034ab-6ad7-4f0a-9889-043e94db1e93)
+![Screenshot 2023-11-06 180005](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/5925d547-2ccc-4856-bce7-766935d4e093)
 
 
 
