@@ -35,16 +35,15 @@ Website Triefware adalah sebuah platform yang dirancang untuk pembelian sepatu t
 
 	2.1 Penggolongan Karakterik Pengguna
 Dalam pengembangan platform website " Triefware " berbagai kategori pengguna telah diidentifikasi, masing-masing dengan tugas, hak akses ke Web Site, dan kemampuan yang  harus dimiliki. Berikut adalah penjelasan lebih rinci tentang karakteristik pengguna:
+
 Tabel 1 Karakteristik Pengguna
+
 <img width="508" alt="Screenshot 2023-11-06 163636" src="https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/4bc9789b-a0cd-4be9-9c51-2594e64804b9">
 <img width="509" alt="Screenshot 2023-11-06 163706" src="https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/efb9dcb7-7c1e-4e2d-884c-ac1be01ba6c5">
 <img width="500" alt="Screenshot 2023-11-06 163737" src="https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/ccf85b0d-5c4d-4d73-a1ad-a381dbc79a08">
 
 	2.3	Lingkungan Operasi
 <img width="485" alt="Screenshot 2023-11-06 163117" src="https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/61624628-8f7f-4b0b-814a-02e7813cc3e8">
-
-
-
 
 	2.4	Batas Desain dan Implementasi
 Batasan Desain dan Implementasi merujuk pada keterbatasan atau kendala yang perlu diperhatikan selama proses pembuatan dan pelaksanaan sebuah website, khususnya website thrifting. Hal ini penting untuk memastikan bahwa proyek dapat diselesaikan dengan efektif dan efisien sambil memenuhi kebutuhan utama pengguna. Berikut adalah penjelasan dari batasan Desain dan Implementasi pada website thrifting:
