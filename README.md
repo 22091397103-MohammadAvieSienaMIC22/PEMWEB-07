@@ -12,7 +12,7 @@ Laporan Tugas Pemrograman Web SRS
 
 BAB 1 PENDAHULUAN 
 
-	 1.1 Tujuan
+	  1.1 Tujuan
         
   Dokumen ini bertujuan menjelaskan bagaimana perancangan sebuah web site yg berfokus pada penjualan sepatu thrifting / sepatu bekas impor original dan tentunya berkualitas. Web site ini akan menampilkan laman home, shop, dan cara pesan. Dokumen ini akan menjadi panduan bagi tim pengembangan dalam merancang dan mengimplementasikan situs web.
 
@@ -24,7 +24,7 @@ Web thrifting ditujukan untuk berbagai kelompok individu, termasuk penggemar thr
 	
 Produk ini hanya mencakup pembelian produk thrifting sepatu dengan cara mengorder melalui website dengan berbagai macam merek sepatu dan berbagai macam ukuran serta harga yg bervariasi. Produk ini tidak mencakup untuk pembelian non sepatu seperti sendal, tas, ataupun barang-barang yg lainnya 
 
-	1.4	Definisi dan Istilah
+	 1.4	Definisi dan Istilah
  
 Berikut adalah definisi dan penjelasan singkat untuk istilah-istilah yang mungkin memerlukan klarifikasi:
 -	SRS (Software Requirements Specification): Dokumen ini sendiri, yang merupakan Spesifikasi Kebutuhan Perangkat Lunak. SRS menguraikan secara terperinci persyaratan perangkat lunak yang akan dikembangkan.
