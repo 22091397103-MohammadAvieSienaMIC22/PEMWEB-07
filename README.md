@@ -74,27 +74,27 @@ komunikasi.
 
 Batasan Desain dan Implementasi merujuk pada keterbatasan atau kendala yang perlu diperhatikan selama proses pembuatan dan pelaksanaan sebuah website, khususnya website thrifting. Hal ini penting untuk memastikan bahwa proyek dapat diselesaikan dengan efektif dan efisien sambil memenuhi kebutuhan utama pengguna. Berikut adalah penjelasan dari batasan Desain dan Implementasi pada website thrifting:
 
-1.	Keterbatasan Teknologi:
-●	Desain: Website mungkin perlu didesain dengan mempertimbangkan teknologi yang saat ini tersedia, termasuk perangkat keras, perangkat lunak, dan platform hosting.
-●	Implementasi: Website mungkin perlu diintegrasikan dengan sistem pembayaran, pengiriman, atau teknologi lain, yang masing-masing memiliki keterbatasannya sendiri.
-2.	Responsif dan Kompatibilitas:
-●	Desain: Situs harus responsif, artinya harus dapat ditampilkan dengan baik di berbagai jenis perangkat, dari desktop hingga mobile.
-●	Implementasi: Penerapan desain responsif mungkin memerlukan penggunaan kerangka kerja atau alat tertentu yang mempengaruhi kecepatan dan kinerja situs.
-3.	Keamanan:
-●	Desain: Mengingat sifat transaksional website thrifting, keamanan menjadi prioritas, seperti proteksi terhadap serangan DDoS, SQL injection, dan lainnya.
-●	Implementasi: Penerapan fitur keamanan, seperti enkripsi, firewall, dan autentikasi dua faktor, dapat mempengaruhi kompleksitas dan waktu pengembangan.
-4.	Integrasi dengan Pihak Ketiga:
-●	Desain: Situs mungkin perlu mengintegrasikan API dari penyedia pembayaran, layanan pengiriman, atau platform media sosial.
-●	Implementasi: Keterbatasan dari API pihak ketiga, seperti batasan pemanggilan atau fitur yang ditawarkan, dapat mempengaruhi fungsi dan kinerja situs.
-5.	Keterbatasan Anggaran dan Sumber Daya:
-●	Desain: Anggaran yang terbatas mungkin mempengaruhi keputusan desain, seperti pemilihan grafik, animasi, atau fitur khusus.
-●	Implementasi: Keterbatasan anggaran dan sumber daya manusia dapat mempengaruhi kecepatan pengembangan dan cakupan fitur yang diimplementasikan.
-6.	User Experience (UX):
-●	Desain: UX harus menjadi prioritas, dengan pertimbangan pada navigasi intuitif, estetika, dan kecepatan loading.
-●	Implementasi: Komponen yang mempengaruhi UX, seperti waktu loading halaman atau animasi, perlu dioptimalkan dan diuji.
-7.	Scalability:
-●	Desain: Dengan pertumbuhan potensial dari platform thrifting, desain harus mempertimbangkan skalabilitas di masa depan.
-●	Implementasi: Pilihan teknologi, struktur basis data, dan arsitektur backend harus mendukung pertumbuhan pengguna dan data.
+1.Keterbatasan Teknologi:
+        ●Desain: Website mungkin perlu didesain dengan mempertimbangkan teknologi yang saat ini tersedia, termasuk perangkat keras, perangkat lunak, dan platform hosting.
+        ●Implementasi: Website mungkin perlu diintegrasikan dengan sistem pembayaran, pengiriman, atau teknologi lain, yang masing-masing memiliki keterbatasannya sendiri.
+2.Responsif dan Kompatibilitas:
+        ●Desain: Situs harus responsif, artinya harus dapat ditampilkan dengan baik di berbagai jenis perangkat, dari desktop hingga mobile.
+        ●Implementasi: Penerapan desain responsif mungkin memerlukan penggunaan kerangka kerja atau alat tertentu yang mempengaruhi kecepatan dan kinerja situs.
+3.Keamanan:
+        ●Desain: Mengingat sifat transaksional website thrifting, keamanan menjadi prioritas, seperti proteksi terhadap serangan DDoS, SQL injection, dan lainnya.
+        ●Implementasi: Penerapan fitur keamanan, seperti enkripsi, firewall, dan autentikasi dua faktor, dapat mempengaruhi kompleksitas dan waktu pengembangan.
+4.Integrasi dengan Pihak Ketiga:
+        ●Desain: Situs mungkin perlu mengintegrasikan API dari penyedia pembayaran, layanan pengiriman, atau platform media sosial.
+        ●Implementasi: Keterbatasan dari API pihak ketiga, seperti batasan pemanggilan atau fitur yang ditawarkan, dapat mempengaruhi fungsi dan kinerja situs.
+5.Keterbatasan Anggaran dan Sumber Daya:
+        ●Desain: Anggaran yang terbatas mungkin mempengaruhi keputusan desain, seperti pemilihan grafik, animasi, atau fitur khusus.
+        ●Implementasi: Keterbatasan anggaran dan sumber daya manusia dapat mempengaruhi kecepatan pengembangan dan cakupan fitur yang diimplementasikan.
+6.User Experience (UX):
+        ●Desain: UX harus menjadi prioritas, dengan pertimbangan pada navigasi intuitif, estetika, dan kecepatan loading.
+        ●Implementasi: Komponen yang mempengaruhi UX, seperti waktu loading halaman atau animasi, perlu dioptimalkan dan diuji.
+7.Scalability:
+        ●Desain: Dengan pertumbuhan potensial dari platform thrifting, desain harus mempertimbangkan skalabilitas di masa depan.
+        ●Implementasi: Pilihan teknologi, struktur basis data, dan arsitektur backend harus mendukung pertumbuhan pengguna dan data.
 
 Dengan memahami batasan Desain dan Implementasi ini, tim pengembangan dapat memastikan bahwa website thrifting tidak hanya fungsional dan memenuhi kebutuhan pengguna tetapi juga dapat diadaptasi dan ditingkatkan di masa mendatang.
 
