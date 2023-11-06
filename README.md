@@ -30,6 +30,7 @@ https://www.thrifted.com/?gclid=CjwKCAjw1t2pBhAFEiwA_-A-NMe6X-VGarXz-CDqmQa55pGf
 
 
 BAB 2 DESKRIPSI KESELURUHAN
+
         2.1 Deskripsi Produk
 Website Triefware adalah sebuah platform yang dirancang untuk pembelian sepatu thrifting, website ini menyediakan berbagai macam pilihan sepatu branded serta berbagai macam merek, ukuran dan pilihan harga yang sangat bervariatif. Website ini juga menyediakan berbagai macan model sepatu seperti sepatu formal, sneakers, sport dll dengan berbagai macam model mengikuti perkembangan jaman style dan fashion sekarang.
 
