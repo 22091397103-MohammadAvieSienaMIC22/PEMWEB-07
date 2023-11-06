@@ -439,7 +439,7 @@ nav a:hover{
     grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
     gap: 3.2rem;
     margin-top: 40px;
-    margin-bottom: 20px;
+    margin-bottom: -30px;
 	margin-left: 50px;
 }
 #contact a{
@@ -494,6 +494,6 @@ footer {
   background-color: #333;
   color: #fff;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 0px;
   padding: 10px 0;
 }
