@@ -20,7 +20,7 @@ Web thrifting ditujukan untuk berbagai kelompok individu, termasuk penggemar thr
 
         1.3	Batasan Produk 
 Produk ini hanya mencakup pembelian produk thrifting sepatu dengan cara mengorder melalui website dengan berbagai macam merek sepatu dan berbagai macam ukuran serta harga yg bervariasi. Produk ini tidak mencakup untuk pembelian non sepatu seperti sendal, tas, ataupun barang-barang yg lainnya 
-1.4	Definisi dan Istilah
+	1.4	Definisi dan Istilah
 Berikut adalah definisi dan penjelasan singkat untuk istilah-istilah yang mungkin memerlukan klarifikasi:
 -	SRS (Software Requirements Specification): Dokumen ini sendiri, yang merupakan Spesifikasi Kebutuhan Perangkat Lunak. SRS menguraikan secara terperinci persyaratan perangkat lunak yang akan dikembangkan.
 -	IEEE (Institute of Electrical and Electronics Engineering): Sebuah organisasi internasional yang mengembangkan standar untuk berbagai bidang teknik, termasuk standar terkait pengembangan perangkat lunak. IEEE sering kali diacu dalam konteks standar industri dan praktik terbaik.
@@ -30,48 +30,23 @@ https://www.thrifted.com/?gclid=CjwKCAjw1t2pBhAFEiwA_-A-NMe6X-VGarXz-CDqmQa55pGf
 
 
 BAB 2 DESKRIPSI KESELURUHAN
-          2.1 Deskripsi Produk
-Website Triefware adalah sebuah platform yang dirancang untuk pembelian sepatu thrifting, website ini menyediakan berbagai macam pilihan sepatu branded serta berbagai macam merek, ukuran dan pilihan harga yang sangat bervariatif. Website ini juga menyediakan berbagai macan model sepatu seperti sepatu formal, sneakers, sport dll dengan berbagai macam model mengikuti perkembangan jaman style dan fashion sekarang. 
-2.1 Penggolongan Karakterik Pengguna
-	Dalam pengembangan platform website " Triefware " berbagai kategori pengguna telah diidentifikasi, masing-masing dengan tugas, hak akses ke Web Site, dan kemampuan yang  harus dimiliki. Berikut adalah penjelasan lebih rinci tentang karakteristik pengguna:
+        2.1 Deskripsi Produk
+Website Triefware adalah sebuah platform yang dirancang untuk pembelian sepatu thrifting, website ini menyediakan berbagai macam pilihan sepatu branded serta berbagai macam merek, ukuran dan pilihan harga yang sangat bervariatif. Website ini juga menyediakan berbagai macan model sepatu seperti sepatu formal, sneakers, sport dll dengan berbagai macam model mengikuti perkembangan jaman style dan fashion sekarang.
+
+	2.1 Penggolongan Karakterik Pengguna
+Dalam pengembangan platform website " Triefware " berbagai kategori pengguna telah diidentifikasi, masing-masing dengan tugas, hak akses ke Web Site, dan kemampuan yang  harus dimiliki. Berikut adalah penjelasan lebih rinci tentang karakteristik pengguna:
 Tabel 1 Karakteristik Pengguna
+<img width="508" alt="Screenshot 2023-11-06 163636" src="https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/4bc9789b-a0cd-4be9-9c51-2594e64804b9">
+<img width="509" alt="Screenshot 2023-11-06 163706" src="https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/efb9dcb7-7c1e-4e2d-884c-ac1be01ba6c5">
+<img width="500" alt="Screenshot 2023-11-06 163737" src="https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/ccf85b0d-5c4d-4d73-a1ad-a381dbc79a08">
 
-Kategori Pengguna	Tugas	Hak Akses ke Web Site	Kemampuan yang harus dimiliki
-Admin	Mengelola website	Akses dan kontrol penuh atas seluruh aspek website.	Kemampuan untuk mengelola dan memodifikasi seluruh konten dan fitur website.
-		Mengelola dan memodifikasi website, database, pengaturan, dan keamanan.	Keterampilan komunikasi yang baik, analisis, pemecahan masalah, manajemen waktu, dan pemahaman bisnis yang mendalam
-
-Pemasok Produk dan Penguji Kualitas Triefware	Menyediakan Produk Triefware dan Menguji Kualitas Barang 	Mengelola inventaris produk Thrifting dan Menguji produk.	Menyediakan barang-barang thrifting untuk dijual di platform, dimulai dari sourcing produk yang berkualitas, mengatur listing produk, hingga pengiriman serta Penguji harus memikili perhatian tinggi terhadap detail, pengetahuan mendalam tentang produk thrifting, komunikasi yang efektif, dan analisis.
-
-Pengunjung	Mengunjungi website untuk
-mencari informasi	Kemampuan untuk mengunjungi dan melihat-
-lihat halaman website.	Kemampuan mencari informasi dan membaca
-konten.
-Pembeli/ Pelanggan	Memesan Produk Thrifting	Kemampuan untuk memesan produk Thrifting melalui website.	Memahami proses pemesanan serta memasukkan data pengiriman dan pembayaran.
-Pengguna   yang sudah Terdaftar	Mendaftar Akun dan Melacak Pesanan	Akses ke akun yang memungkinkan pelanggan melacak pesanan.	Kemampuan untuk mendaftar akun, mengakses riwayat pesanan, dan memanfaatkan fitur-fitur terkait akun.
-Dukungan Pelanggan	Mendukung Pelanggan	Menjawab pertanyaan dan keluhan pengguna, membantu dengan masalah transaksi atau teknis.
-	Kemampuan dalam memberikan dukungan pelanggan dengan
-efektif, keterampilan komunikasi serta pemecahan masalah cepat.
-
-Penjual/ Seller	Bertransaksi  dengan pelanggan	Akses khusus untuk mendaftarkan sepatu untuk dijual, menetapkan harga, dan mengelola transaksi.
-	Kemampuan dalam mengambil foto berkualitas, menulis deskripsi produk yang menarik, berkomunikasi dengan pembeli serta bertransaksi secara efektif.
-Pemasar/ marketers	Mempromosikan platform, mengembangkan strategi pemasaran, dan menarik pengguna baru.
-	Memiliki Akses berbagi ke berbagai media social atau berbagai platform.	Kemampuan untuk berbagi desain atau produk di platform mediasosial serta memiliki strategi digital marketing, analisisdata, kreativitas.
--	
-	
-2.3	Lingkungan Operasi
-Lingkungan Operasi	Deskripsi
-1. Sistem Operasi	Smartphone dengan iOS dan Android,
-	Laptop dan PC dengan Windows, macOS, atau Linux.
-2. Jaringan	Terhubung dengan jaringan internet
-3. Perangkat keras	Smartphone, laptop dan PC
-4. API	Terintegrasi dengan WhatsApp Business API untuk
-komunikasi.
-5. Bahasa Pemrogaman	Digunakan bahasa pemrograman HTML dan CSS.
+	2.3	Lingkungan Operasi
+<img width="485" alt="Screenshot 2023-11-06 163117" src="https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/61624628-8f7f-4b0b-814a-02e7813cc3e8">
 
 
 
-2.4	Batas Desain dan Implementasi
 
+	2.4	Batas Desain dan Implementasi
 Batasan Desain dan Implementasi merujuk pada keterbatasan atau kendala yang perlu diperhatikan selama proses pembuatan dan pelaksanaan sebuah website, khususnya website thrifting. Hal ini penting untuk memastikan bahwa proyek dapat diselesaikan dengan efektif dan efisien sambil memenuhi kebutuhan utama pengguna. Berikut adalah penjelasan dari batasan Desain dan Implementasi pada website thrifting:
 
 1.Keterbatasan Teknologi:
