@@ -111,10 +111,14 @@ Dengan memahami batasan Desain dan Implementasi ini, tim pengembangan dapat mema
 	3.1	 User Interfaces
 Ruang lingkup Website "Thrifting" meliputi bagian-bagian yang terdapat dalam Website "Thrifting" yang telah dibuat. Berikut deskripsi singkat mengenai ruang lingkup Website Pribadi ini:
 
- 
-![image](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/db020aaa-9a85-4362-8c2c-dd205ef7c972)
-![image](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/012cbd75-7468-4091-b7dd-88cd1e699186)
-![image](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/51455e96-a355-4b49-8b80-af02f7b80ef8)
+	3.1.1 Bagian Index HTML
+
+![Screenshot 2023-11-06 175431](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/14d65618-79b2-43cf-8a16-25d92417bf2f)
+![Screenshot 2023-11-06 175559](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/88bdb30f-81be-4ec7-92e1-978150a26f1d)
+![Screenshot 2023-11-06 175453](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/119946a7-ff72-473b-acfc-32b9ef3c4f02)
+![Screenshot 2023-11-06 175632](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/df74ac60-2530-4b7f-bd67-6de4b14b788b)
+![Screenshot 2023-11-06 175649](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/159fd269-5da1-4d0b-befc-1733029e9b91)
+
 
 
 
