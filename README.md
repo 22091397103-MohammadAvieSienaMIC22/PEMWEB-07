@@ -10,10 +10,96 @@ Laporan Tugas Pemrograman Web SRS
        Fakultas Vokasi Universitas Negeri Surabaya 
                          2023
 
-
-        1. Tujuan
+BAB 1 PENDAHULUAN 
+        1.1 Tujuan
         
-  Tujuan website Thrifting Sepatu adalah untuk menjelaskan cakupan dari produk yang dijelaskan dalam dokumen SRS, fungsi utama, karakteristik pengguna, lingkungan operasional, kendala desain dan implementasi, dokumentasi pengguna. Dengan tujuan ini, pembaca dokumen akan memahami produk yang akan dikembangkan dan batasan serta kondisi yang harus dipertimbangkan dalam mengembangkan website tersebut.
+  Dokumen ini bertujuan menjelaskan bagaimana perancangan sebuah web site yg berfokus pada penjualan sepatu thrifting / sepatu bekas impor original dan tentunya berkualitas. Web site ini akan menampilkan laman home, shop, dan cara pesan. Dokumen ini akan menjadi panduan bagi tim pengembangan dalam merancang dan mengimplementasikan situs web.
+
+        1.2 Audien yang Dituju dan  Pembaca yang Disarankan
+Web thrifting ditujukan untuk berbagai kelompok individu, termasuk penggemar thrifting, pelajar, penggemar mode berkelanjutan, pengoleksi, serta pengusaha dan penjual. Kesadaran mengenai keberlanjutan dan keuntungan ekonomi membuat thrifting menjadi menarik bagi berbagai demografi. Selain itu, website tersebut juga direkomendasikan untuk pembaca yang baru mengenal konsep thrifting, desainer, seniman, aktivis lingkungan, pemasar, analis bisnis, serta pembuat kebijakan. Memahami kedua kategori ini memungkinkan pemilik web thrifting untuk menyajikan konten dan fitur yang relevan, memaksimalkan keterlibatan pengguna, dan meningkatkan kesuksesan platform mereka.
+
+        1.3	Batasan Produk 
+Produk ini hanya mencakup pembelian produk thrifting sepatu dengan cara mengorder melalui website dengan berbagai macam merek sepatu dan berbagai macam ukuran serta harga yg bervariasi. Produk ini tidak mencakup untuk pembelian non sepatu seperti sendal, tas, ataupun barang-barang yg lainnya 
+1.4	Definisi dan Istilah
+Berikut adalah definisi dan penjelasan singkat untuk istilah-istilah yang mungkin memerlukan klarifikasi:
+-	SRS (Software Requirements Specification): Dokumen ini sendiri, yang merupakan Spesifikasi Kebutuhan Perangkat Lunak. SRS menguraikan secara terperinci persyaratan perangkat lunak yang akan dikembangkan.
+-	IEEE (Institute of Electrical and Electronics Engineering): Sebuah organisasi internasional yang mengembangkan standar untuk berbagai bidang teknik, termasuk standar terkait pengembangan perangkat lunak. IEEE sering kali diacu dalam konteks standar industri dan praktik terbaik.
+
+        1.5	Referensi 
+https://www.thrifted.com/?gclid=CjwKCAjw1t2pBhAFEiwA_-A-NMe6X-VGarXz-CDqmQa55pGf0cNlegnbJJ16tQ0pPnUaAe8-5bfFOhoC5RgQAvD_BwE
+
+
+BAB 2 DESKRIPSI KESELURUHAN
+          2.1 Deskripsi Produk
+Website Triefware adalah sebuah platform yang dirancang untuk pembelian sepatu thrifting, website ini menyediakan berbagai macam pilihan sepatu branded serta berbagai macam merek, ukuran dan pilihan harga yang sangat bervariatif. Website ini juga menyediakan berbagai macan model sepatu seperti sepatu formal, sneakers, sport dll dengan berbagai macam model mengikuti perkembangan jaman style dan fashion sekarang. 
+2.1 Penggolongan Karakterik Pengguna
+	Dalam pengembangan platform website " Triefware " berbagai kategori pengguna telah diidentifikasi, masing-masing dengan tugas, hak akses ke Web Site, dan kemampuan yang  harus dimiliki. Berikut adalah penjelasan lebih rinci tentang karakteristik pengguna:
+Tabel 1 Karakteristik Pengguna
+
+Kategori Pengguna	Tugas	Hak Akses ke Web Site	Kemampuan yang harus dimiliki
+Admin	Mengelola website	Akses dan kontrol penuh atas seluruh aspek website.	Kemampuan untuk mengelola dan memodifikasi seluruh konten dan fitur website.
+		Mengelola dan memodifikasi website, database, pengaturan, dan keamanan.	Keterampilan komunikasi yang baik, analisis, pemecahan masalah, manajemen waktu, dan pemahaman bisnis yang mendalam
+
+Pemasok Produk dan Penguji Kualitas Triefware	Menyediakan Produk Triefware dan Menguji Kualitas Barang 	Mengelola inventaris produk Thrifting dan Menguji produk.	Menyediakan barang-barang thrifting untuk dijual di platform, dimulai dari sourcing produk yang berkualitas, mengatur listing produk, hingga pengiriman serta Penguji harus memikili perhatian tinggi terhadap detail, pengetahuan mendalam tentang produk thrifting, komunikasi yang efektif, dan analisis.
+
+Pengunjung	Mengunjungi website untuk
+mencari informasi	Kemampuan untuk mengunjungi dan melihat-
+lihat halaman website.	Kemampuan mencari informasi dan membaca
+konten.
+Pembeli/ Pelanggan	Memesan Produk Thrifting	Kemampuan untuk memesan produk Thrifting melalui website.	Memahami proses pemesanan serta memasukkan data pengiriman dan pembayaran.
+Pengguna   yang sudah Terdaftar	Mendaftar Akun dan Melacak Pesanan	Akses ke akun yang memungkinkan pelanggan melacak pesanan.	Kemampuan untuk mendaftar akun, mengakses riwayat pesanan, dan memanfaatkan fitur-fitur terkait akun.
+Dukungan Pelanggan	Mendukung Pelanggan	Menjawab pertanyaan dan keluhan pengguna, membantu dengan masalah transaksi atau teknis.
+	Kemampuan dalam memberikan dukungan pelanggan dengan
+efektif, keterampilan komunikasi serta pemecahan masalah cepat.
+
+Penjual/ Seller	Bertransaksi  dengan pelanggan	Akses khusus untuk mendaftarkan sepatu untuk dijual, menetapkan harga, dan mengelola transaksi.
+	Kemampuan dalam mengambil foto berkualitas, menulis deskripsi produk yang menarik, berkomunikasi dengan pembeli serta bertransaksi secara efektif.
+Pemasar/ marketers	Mempromosikan platform, mengembangkan strategi pemasaran, dan menarik pengguna baru.
+	Memiliki Akses berbagi ke berbagai media social atau berbagai platform.	Kemampuan untuk berbagi desain atau produk di platform mediasosial serta memiliki strategi digital marketing, analisisdata, kreativitas.
+-	
+	
+2.3	Lingkungan Operasi
+Lingkungan Operasi	Deskripsi
+1. Sistem Operasi	Smartphone dengan iOS dan Android,
+	Laptop dan PC dengan Windows, macOS, atau Linux.
+2. Jaringan	Terhubung dengan jaringan internet
+3. Perangkat keras	Smartphone, laptop dan PC
+4. API	Terintegrasi dengan WhatsApp Business API untuk
+komunikasi.
+5. Bahasa Pemrogaman	Digunakan bahasa pemrograman HTML dan CSS.
+
+
+
+2.4	Batas Desain dan Implementasi
+
+Batasan Desain dan Implementasi merujuk pada keterbatasan atau kendala yang perlu diperhatikan selama proses pembuatan dan pelaksanaan sebuah website, khususnya website thrifting. Hal ini penting untuk memastikan bahwa proyek dapat diselesaikan dengan efektif dan efisien sambil memenuhi kebutuhan utama pengguna. Berikut adalah penjelasan dari batasan Desain dan Implementasi pada website thrifting:
+
+1.	Keterbatasan Teknologi:
+●	Desain: Website mungkin perlu didesain dengan mempertimbangkan teknologi yang saat ini tersedia, termasuk perangkat keras, perangkat lunak, dan platform hosting.
+●	Implementasi: Website mungkin perlu diintegrasikan dengan sistem pembayaran, pengiriman, atau teknologi lain, yang masing-masing memiliki keterbatasannya sendiri.
+2.	Responsif dan Kompatibilitas:
+●	Desain: Situs harus responsif, artinya harus dapat ditampilkan dengan baik di berbagai jenis perangkat, dari desktop hingga mobile.
+●	Implementasi: Penerapan desain responsif mungkin memerlukan penggunaan kerangka kerja atau alat tertentu yang mempengaruhi kecepatan dan kinerja situs.
+3.	Keamanan:
+●	Desain: Mengingat sifat transaksional website thrifting, keamanan menjadi prioritas, seperti proteksi terhadap serangan DDoS, SQL injection, dan lainnya.
+●	Implementasi: Penerapan fitur keamanan, seperti enkripsi, firewall, dan autentikasi dua faktor, dapat mempengaruhi kompleksitas dan waktu pengembangan.
+4.	Integrasi dengan Pihak Ketiga:
+●	Desain: Situs mungkin perlu mengintegrasikan API dari penyedia pembayaran, layanan pengiriman, atau platform media sosial.
+●	Implementasi: Keterbatasan dari API pihak ketiga, seperti batasan pemanggilan atau fitur yang ditawarkan, dapat mempengaruhi fungsi dan kinerja situs.
+5.	Keterbatasan Anggaran dan Sumber Daya:
+●	Desain: Anggaran yang terbatas mungkin mempengaruhi keputusan desain, seperti pemilihan grafik, animasi, atau fitur khusus.
+●	Implementasi: Keterbatasan anggaran dan sumber daya manusia dapat mempengaruhi kecepatan pengembangan dan cakupan fitur yang diimplementasikan.
+6.	User Experience (UX):
+●	Desain: UX harus menjadi prioritas, dengan pertimbangan pada navigasi intuitif, estetika, dan kecepatan loading.
+●	Implementasi: Komponen yang mempengaruhi UX, seperti waktu loading halaman atau animasi, perlu dioptimalkan dan diuji.
+7.	Scalability:
+●	Desain: Dengan pertumbuhan potensial dari platform thrifting, desain harus mempertimbangkan skalabilitas di masa depan.
+●	Implementasi: Pilihan teknologi, struktur basis data, dan arsitektur backend harus mendukung pertumbuhan pengguna dan data.
+
+Dengan memahami batasan Desain dan Implementasi ini, tim pengembangan dapat memastikan bahwa website thrifting tidak hanya fungsional dan memenuhi kebutuhan pengguna tetapi juga dapat diadaptasi dan ditingkatkan di masa mendatang.
+
+
+
 
 
         3. Lampiran
