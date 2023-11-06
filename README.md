@@ -126,9 +126,16 @@ Ruang lingkup Website "Thrifting" meliputi bagian-bagian yang terdapat dalam Web
 ![Screenshot 2023-11-06 175854](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/048034ab-6ad7-4f0a-9889-043e94db1e93)
 ![Screenshot 2023-11-06 180005](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/5925d547-2ccc-4856-bce7-766935d4e093)
 
-	3.2.3 Bagian CART.HTML
+	3.1.3 Bagian CART.HTML
+ 
 ![Screenshot 2023-11-06 180144](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/01c84126-06d5-48c8-8661-ff3c8e763add)
 ![Screenshot 2023-11-06 180118](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/5cfebbb3-af82-4992-b5e5-6aa329bdb1c4)
+
+	3.1.4 Bagian LOGIN.HTML
+
+![Screenshot 2023-11-06 180247](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/efab27f2-81eb-484b-b091-8756f03e430b)
+![Screenshot 2023-11-06 180258](https://github.com/22091397103-MohammadAvieSienaMIC22/PEMWEB-07/assets/144098631/eefe5698-504c-446b-b99e-ddbffb0b20f5)
+
 
 
      BAB 4 Functional Requirement
